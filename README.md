@@ -14,14 +14,14 @@ With over 2 years of experience in software development, I specialize in buildin
 
 ## 🛠️ Projects
 
-### [Healink](https://www.example.com)
+### [Healink](https://www.healink.ing)
 *Developed at Magneton Technologies*
 
 - **Role:** Lead Developer
 - **Description:** A comprehensive HMIS solution with features like appointment booking, digital prescriptions, role-based access control, video conferencing, and integration with SNOMED and FHIR for standardized medical record sharing.
 - **Tech Stack:** Java, Spring Boot, MySQL, AWS
 
-### [Motifizer: A Gene Expression Regulation Predictor](https://github.com/yash-gaglani/motifizer)
+### Motifizer: A Gene Expression Regulation Predictor
 *Developed as an academic project*
 
 - **Role:** Lead Developer
