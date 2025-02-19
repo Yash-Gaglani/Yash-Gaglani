@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-With over 2 years of experience in software development, I specialize in building innovative solutions using Java, Spring Framework, and RESTful APIs. My work spans across multiple domains, including healthcare, where I've successfully developed and delivered a full-fledged Hospital Management Information System (HMIS). I am passionate about leveraging technology to solve real-world problems and driving business success through efficient software solutions.
+With over 3 years of experience in software development, I specialize in building innovative solutions using Java, Spring Framework, and RESTful APIs. My work spans across multiple domains, including healthcare, where I've successfully developed and delivered a full-fledged Hospital Management Information System (HMIS). I am passionate about leveraging technology to solve real-world problems and driving business success through efficient software solutions.
 
 ## 💻 Skills
 
@@ -15,7 +15,7 @@ With over 2 years of experience in software development, I specialize in buildin
 ## 🛠️ Projects
 
 ### [Healink](https://www.healink.ing)
-*Developed at Magneton Technologies*
+*Developed at ThirdAi Platforms Pvt. Ltd.*
 
 - **Role:** Lead Developer
 - **Description:** A comprehensive HMIS solution with features like appointment booking, digital prescriptions, role-based access control, video conferencing, and integration with SNOMED and FHIR for standardized medical record sharing.
